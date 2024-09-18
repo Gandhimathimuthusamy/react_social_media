@@ -6,13 +6,9 @@ import Footer from './Footer'
 import NewPost from './NewPost'
 import Nav from './Nav'
 import PostPage from './PostPage'
-
 import Home from './Home'
-
 import { Routes,Route } from 'react-router-dom'
-
 import EditPost from './EditPost';
-
 import { DataProvider } from './context/DataContext';
 
 function  App() {
